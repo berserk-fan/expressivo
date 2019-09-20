@@ -22,5 +22,6 @@ x * y
 ### > !d/dy
 0 * y+x * 1
 
-> - means user input
+### > - means user input
+
 Course link: https://www.edx.org/course/advanced-software-construction-java-mitx-6-005-2x
