@@ -1,7 +1,7 @@
 # expressivo
 simple symbolic system
 
-Expressivo is a lab from "Advanced Software Construction in Java" Edx course. All test, almost all code, grammar for expressions and parser is written by me.
+Expressivo is a lab from "Advanced Software Construction in Java" Edx course. All tests, almost all code, grammar for expressions and parser is written by me.
 
 Briefly it has following functionality:
 ### > x * x * x
